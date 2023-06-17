@@ -1,4 +1,4 @@
-# HTML-CSS
+# HTML_CSS_Alura
  Projetos em Html e CSS do Alura
 
 <a href="https://leoxavier95.github.io/HTML_CSS_Alura\Projetos\Alurabook/">Alurabook</a>
