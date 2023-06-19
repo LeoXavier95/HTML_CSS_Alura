@@ -1,5 +1,5 @@
 # HTML_CSS_Alura
- <h2>Projetos em Html e CSS do Alura</h1>
+ <h2>Projetos em Html e CSS do Alura</h2>
 
  <hr>
 <ul>
