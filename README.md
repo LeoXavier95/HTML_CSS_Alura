@@ -3,7 +3,7 @@
 
  <hr>
 <ul>
-<li><a href="https://leoxavier95.github.io/HTML_CSS_Alura\Projetos\Alurabook/">Alurabook</a>
+    <li><a href="https://leoxavier95.github.io/HTML_CSS_Alura\Projetos\Alurabook/">Alurabook</a>
     <li><a href="https://leoxavier95.github.io/HTML_CSS_Alura\Projetos\AluraCombo/">AluraCombo</a>
     <li><a href="https://leoxavier95.github.io/HTML_CSS_Alura/Projetos/BarbeariaAlura/">Barbearia Alura</a>
     <li><a href="https://leoxavier95.github.io\HTML_CSS_Alura\Projetos\e-comerce">Loja</a>
